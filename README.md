@@ -72,6 +72,6 @@ College event discovery platform helping students find events across India.
 
 LinkedIn: https://linkedin.com/in/vinishraghav-k-e-aba63b313
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: [vinish523@gmail.com](mailto:vinish523@gmail.com)
 
 ⭐ Always open to internships, collaborations and open-source contributions.
